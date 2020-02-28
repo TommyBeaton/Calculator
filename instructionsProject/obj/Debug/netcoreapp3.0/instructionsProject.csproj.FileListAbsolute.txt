@@ -1,0 +1,11 @@
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\bin\Debug\netcoreapp3.0\instructionsProject.exe
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\bin\Debug\netcoreapp3.0\instructionsProject.deps.json
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\bin\Debug\netcoreapp3.0\instructionsProject.runtimeconfig.json
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\bin\Debug\netcoreapp3.0\instructionsProject.runtimeconfig.dev.json
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\bin\Debug\netcoreapp3.0\instructionsProject.dll
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\bin\Debug\netcoreapp3.0\instructionsProject.pdb
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\obj\Debug\netcoreapp3.0\instructionsProject.csprojAssemblyReference.cache
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\obj\Debug\netcoreapp3.0\instructionsProject.AssemblyInfoInputs.cache
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\obj\Debug\netcoreapp3.0\instructionsProject.AssemblyInfo.cs
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\obj\Debug\netcoreapp3.0\instructionsProject.dll
+C:\Users\tbeat\source\repos\instructionsProject\instructionsProject\obj\Debug\netcoreapp3.0\instructionsProject.pdb
